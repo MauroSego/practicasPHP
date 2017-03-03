@@ -1,0 +1,10 @@
+.amarillo {
+  background-color: yellow;
+  width: 100%;
+}
+.gris {
+  background-color: #ccc;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+}
